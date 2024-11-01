@@ -1,1 +1,8 @@
-{"package":"com.julioverne.spotilife","time":1659574637,"section":"Tweaks","name":"Spotilife","version":"1.8","size":209868}
+Package: com.julioverne.spotilife
+Name: Spotilife
+Version: 1.8
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Spotilife is a tweak for Spotify with additional features.
+Size: 209868
+Filename: ./debs/spotilife/com.julioverne.spotilife_1.8_iphoneos-arm.deb
