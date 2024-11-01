@@ -5,4 +5,4 @@ Architecture: iphoneos-arm iphoneos-arm64
 Section: Tweaks
 Description: Spotilife is a tweak for Spotify with additional features.
 Size: 209868
-Filename: ./debs/spotilife/com.julioverne.spotilife_1.8_iphoneos-arm.deb
+Filename: ./debs/com.julioverne.spotilife_1.8_iphoneos-arm.deb
