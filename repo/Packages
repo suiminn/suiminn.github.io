@@ -1,7 +1,7 @@
 Package: com.julioverne.spotilife
 Name: Spotilife
 Version: 1.8
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm iphoneos-arm64
 Section: Tweaks
 Description: Spotilife is a tweak for Spotify with additional features.
 Size: 209868
